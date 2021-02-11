@@ -1,10 +1,3 @@
-[9:56 pm, 15/01/2021] Irit: /**
-* Template Name: Mentor - v2.2.0
-* Template URL: https://bootstrapmade.com/mentor-free-education-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1397,6 +1390,11 @@ section {
     transform: rotate(360deg);
   }
 }
+
+/* Team */
+
+
+
 
 /*--------------------------------------------------------------
 # Footer
